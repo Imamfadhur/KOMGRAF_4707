@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700550684 source:c:\c++ p5\hw6\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1704913788 source:d:\kuliah\komgraf_4707-main\hw6\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
