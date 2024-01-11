@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703173040 source:c:\c++ p5\hw8\main.cpp
+	<iostream>
+	<math.h>
+
+1704913788 source:d:\kuliah\komgraf_4707-main\hw8\main.cpp
+	<iostream>
+	<GL/glut.h>
+

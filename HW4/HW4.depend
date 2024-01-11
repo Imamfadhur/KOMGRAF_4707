@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697882511 source:c:\c++ p5\hw4\main.cpp
+	<GL/glut.h>
+	<iostream>
+
